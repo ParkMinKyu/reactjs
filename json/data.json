@@ -1,0 +1,15 @@
+{"article" : 
+	[
+		{"seq":"1","title":"제목1","content":"내용1","writer":"niee","regdate":"2016-04-01"},
+		{"seq":"2","title":"제목2","content":"내용2","writer":"niee","regdate":"2016-04-01"},
+		{"seq":"3","title":"제목3","content":"내용3","writer":"niee","regdate":"2016-04-01"},
+		{"seq":"4","title":"제목4","content":"내용4","writer":"niee","regdate":"2016-04-01"},
+		{"seq":"5","title":"제목5","content":"내용5","writer":"niee","regdate":"2016-04-01"},
+		{"seq":"6","title":"제목6","content":"내용6","writer":"niee","regdate":"2016-04-01"},
+		{"seq":"7","title":"제목7","content":"내용7","writer":"niee","regdate":"2016-04-01"},
+		{"seq":"8","title":"제목8","content":"내용8","writer":"niee","regdate":"2016-04-01"},
+		{"seq":"9","title":"제목9","content":"내용9","writer":"niee","regdate":"2016-04-01"},
+		{"seq":"10","title":"제목10","content":"내용10","writer":"niee","regdate":"2016-04-01"}
+	],
+	"pageData" : {"page":1,"totalPage":10,"totalArticle":100}	
+}
