@@ -105,7 +105,7 @@ var PagingItem = React.createClass({displayName : "PagingItem",
 
 var WriteBtn = React.createClass({displayName:"WriteBtn",
 	writePage : function(){
-		location.href="/react/write.html"
+		location.href="write.html"
 	},
 	render : function(){
 		return (
